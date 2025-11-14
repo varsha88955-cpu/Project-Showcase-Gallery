@@ -1,2 +1,2 @@
 # Project-Showcase-Gallery
-Built a responsive web application with RESTful APIs and an integrated SQL database, supporting 500+ project submissions with search/filter functionality and secure user authentication
+Project Showcase Gallery is a responsive web application designed to display and organize final-year student projects in an attractive and user-friendly gallery interface. Built using HTML, CSS, JavaScript, and Flask, this platform allows users to browse project details, view individual project pages, and navigate through a visually appealing collection of academic work. The system focuses on simplicity, clean design, and easy customization—making it ideal for colleges, departments, or students who want to present their projects in a structured and modern way
